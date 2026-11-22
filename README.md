@@ -20,10 +20,11 @@ quality, sales growth, and what drove a major sales spike.
 
 ## Dataset
 
-[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/) (Kaggle).
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+(Kaggle), released by Olist under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 9 related tables covering orders, items, customers, products, payments,
-reviews, and sellers. Check the license on the dataset's Kaggle page.
-The raw data is not included in this repo.
+reviews, and sellers. The raw data is not included in this repo.
 
 ## Tools
 
